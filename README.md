@@ -14,4 +14,4 @@ Output 5.1 V regulated
 
 Board	2-layer  
 
-The BQ24074 feeds the system rail and charges the battery at the same time, so the board would keep running from the USB while the battery charges and switches to the battery once the USB is unplugged. The system then feeds into the TPS61088 which steps it up to 5.1V output.
+It outputs 4.1V with just the USB-C connected. The BQ24074 feeds the system rail and charges the battery at the same time, so the board would keep running from the USB while the battery charges and switches to the battery once the USB is unplugged. The system then feeds into the TPS61088 which steps it up to 5.1V output.
